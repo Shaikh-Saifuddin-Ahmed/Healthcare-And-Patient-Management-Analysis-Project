@@ -14,11 +14,15 @@ Tools & Technologies Used:
 📈 Skills Applied: Data Cleaning, data transformation with Power Query, data visualization techniques in Power Bi,Trend Analysis, Dashboard Design.
 
 🔑 Key Performance Indicators (KPIs):
+
 Some KPIs identified were:
 
 Total Patients: 55K
+
 Total Revenue: 1 Billion
+
 Total Rooms: 400
+
 Average Billing Per Patient: 25.62K
 
 💡 Insights Generated:
