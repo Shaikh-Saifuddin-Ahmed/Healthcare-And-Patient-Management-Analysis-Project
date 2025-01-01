@@ -23,8 +23,6 @@ Average Billing Per Patient: 25.62K
 
 💡 Insights Generated:
 
-This interactive dashboard presents a comprehensive view of various aspects of crowdfunding campaigns, including:
-
 Age Group Distribution: The 36-60 age group has the highest number of patients (20.4K), followed by those over 60 (20.2K). Younger age groups (18-35) have fewer patients, with children (under 18) representing a tiny fraction.
 
 Gender Distribution: Gender distribution is nearly equal, with males at 50.02% and females at 49.98%, indicating balanced healthcare access and needs.
@@ -43,7 +41,7 @@ Revenue Trends: Revenue grew from 2019-2023, peaking at $284M in 2020 but saw a 
 
 Age Group & Medical Condition: The 36-60 age group is the most affected by conditions like diabetes and obesity, while older age groups have a higher prevalence of arthritis and diabetes.
 
-📝 Challenges faced throughout this Project:-
+📝 Challenges faced throughout this Project:
 
 Data Quality and Consistency: The dataset required significant cleaning to address missing, incomplete, or inconsistent data, ensuring accuracy and reliability in the analysis.
 
