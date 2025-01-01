@@ -11,7 +11,7 @@ Tools & Technologies Used:
 
 💻 Technologies Used: MySQL, Power Query, Power BI, PowerPoint.
 
-📈 Skills Applied: Data Cleaning, data transformation with Power Query, data visualization techniques in Power Bi,Trend Analysis, Dashboard Design.
+📈 Skills Applied: Data Cleaning using MYSQL, Data transformation with Power Query, Data visualization techniques in Power Bi, Trend Analysis, Dashboard Design.
 
 🔑 Key Performance Indicators (KPIs):
 
